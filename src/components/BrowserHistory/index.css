@@ -8,17 +8,16 @@
   flex-direction: row;
   padding: 10px;
 }
-.heading {
+.History-Img {
   color: #ffffff;
   margin: 10px;
-  align-self: flex-start;
 }
 .searchContainer {
   display: flex;
   flex-direction: row;
   align-self: center;
-  height: 35px;
-  width: 100px;
+  height: 30px;
+  width: 120px;
 }
 .searchImg {
   color: #ffffff;

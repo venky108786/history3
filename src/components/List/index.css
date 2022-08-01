@@ -17,9 +17,14 @@
 }
 p {
   margin-left: 20px;
+  font-weight: 600;
+}
+.domain-name {
+  color: #64748b;
 }
 .img {
-  height: 30px;
-  width: 30px;
+  height: 25px;
+  width: 25px;
   margin-left: 50px;
+  margin-top: 15px;
 }
